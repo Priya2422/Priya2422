@@ -1,13 +1,8 @@
-![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)
+
 <h1 align="center">Hello 👋, I'm Priya Pandey</h1>
 <h3 align="center">A passionate developer from India</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=priya2422&label=Profile%20views&color=0e75b6&style=flat" alt="priya2422" /> </p>
-
-<p align="left"> <a href="https://twitter.com/priyapa44731504" target="blank"><img src="https://img.shields.io/twitter/follow/priyapa44731504?logo=twitter&style=for-the-badge" alt="priyapa44731504" /></a> </p>
-
-- 🌱 I’m currently learning **Css,Javascript,React,Dsa,Graphic Designing**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Priya2422](https://github.com/Priya2422)
 
@@ -17,9 +12,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/priyapa44731504" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="priyapa44731504" height="30" width="40" /></a>
+
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/priya-pandey-292176206/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/priya-pandey-292176206/" height="30" width="40" /></a>
-<a href="https://instagram.com/_l_sleepytinker_l_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_l_sleepytinker_l_" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/@priyapandey_2415" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@priyapandey_2415" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/20051700" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="20051700" height="30" width="40" /></a>
 </p>
