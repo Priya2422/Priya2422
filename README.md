@@ -1,7 +1,7 @@
 ![MasterHead](http://propulsive.in/assets/img/service-icon/web.gif)
 <h1 align="center">Hello 👋, I'm Priya Pandey</h1>
-<h3 align="center">A passionate web developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/13FrpeVH09Zrb2/giphy.gif">
+<h3 align="center">A passionate developer from India</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priya2422&label=Profile%20views&color=0e75b6&style=flat" alt="priya2422" /> </p>
 
